@@ -12,4 +12,4 @@
 3. Run game
 
 ## 🛠️ Configuration
-Edit `BepInEx/config/com.infernumvii.customnamespells.cfg` to change commands:  
+Edit `BepInEx/config/com.infernumvii.customnamespells.cfg` to change commands
