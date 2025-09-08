@@ -1,3 +1,5 @@
+## v1.0.4
+Nothing changed
 ## v1.0.3
 Nothing changed
 ## v1.0.2
