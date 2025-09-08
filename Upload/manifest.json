@@ -1,6 +1,6 @@
 {
     "name": "CustomNameSpells",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/InfernumVII/CustomNameSpells",
     "description": "Adds custom voice commands for spells, letting you cast abilities with your own chosen phrases. UPDATED WITH DOOM AND BUBBLE SPELLS",
     "dependencies": ["BepInEx-BepInExPack-5.4.2100", "hiccup-ModSync-1.0.6"]
